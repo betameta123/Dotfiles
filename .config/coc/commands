@@ -1,0 +1,4 @@
+workspace.clearWatchman
+workspace.workspaceFolders
+workspace.renameCurrentFile
+extensions.toggleAutoUpdate

@@ -1,0 +1,11 @@
+rofi.location: 2
+rofi.yoffset: 16
+
+rofi.font: Source Code Pro 10
+
+rofi.color-enabled:                  true
+rofi.color-normal:                   #385586,#B58E79,#345FA0,#92AED9,#345FA0
+rofi.color-active:                   #385586,#B58E79,#345FA0,#92AED9,#345FA0
+rofi.color-urgent:                   #385586,#B58E79,#345FA0,#92AED9,#345FA0
+rofi.color-window:                   #385586,#B58E79
+rofi.separator-style: solid1
