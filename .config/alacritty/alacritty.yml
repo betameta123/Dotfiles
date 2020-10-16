@@ -34,8 +34,8 @@ window:
   # Blank space added around the window in pixels. This padding is scaled
   # by DPI and the specified value is always added at both opposing sides.
   padding:
-    x: 10
-    y: 10
+    x: 15
+    y: 15
 
   # Spread additional padding evenly around the terminal content.
   #dynamic_padding: false
@@ -96,7 +96,7 @@ font:
     #   - (macOS) Menlo
     #   - (Linux/BSD) monospace
     #   - (Windows) Consolas
-    family: inconsolata
+    family: Fira Code
 
     # The `style` can be specified to pick a specific face.
     style: Regular
@@ -107,7 +107,7 @@ font:
     #
     # If the bold family is not specified, it will fall back to the
     # value specified for the normal font.
-    family: inconsolata
+    family: Fira Code
 
     # The `style` can be specified to pick a specific face.
     style: Bold
@@ -129,7 +129,7 @@ font:
     #
     # If the bold italic family is not specified, it will fall back to the
     # value specified for the normal font.
-    family: inconsolata
+    family: Fira Code
 
     # The `style` can be specified to pick a specific face.
     style: Bold Italic
@@ -139,7 +139,7 @@ font:
 
 colors:
   primary:
-    background: '#2e3440'
+    background: '#1e2132'
     foreground: '#d8dee9'
     dim_foreground: '#a5abb6'
   cursor:

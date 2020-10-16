@@ -3,7 +3,7 @@
     "coc-cmake": ">=0.0.2",
     "coc-go": ">=0.11.0",
     "coc-java": ">=1.4.12",
-    "coc-jedi": ">=0.14.2",
+    "coc-jedi": ">=0.14.3",
     "coc-json": ">=1.2.6",
     "coc-rls": ">=1.1.6",
     "coc-tsserver": ">=1.5.6"

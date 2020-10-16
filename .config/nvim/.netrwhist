@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =6
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/kyle/.config/nvim/themes'
 let g:netrw_dirhist_6='/home/kyle/Documents/ctf/ctfdocker'
 let g:netrw_dirhist_5='/home/kyle/Documents/Code/Rust/basics/basics'
 let g:netrw_dirhist_4='/home/kyle/Documents'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_1='/home/kyle/Documents'
 let g:netrw_dirhist_0='/home/kyle/.config/alacritty'
 let g:netrw_dirhist_9='/home/kyle'
 let g:netrw_dirhist_8='/home/kyle/Downloads/target'
-let g:netrw_dirhist_7='/home/kyle/.config/cef_user_data'

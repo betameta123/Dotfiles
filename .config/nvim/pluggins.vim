@@ -6,6 +6,8 @@ Plug 'power/fonts'
 Plug 'preservim/nerdcommenter'
 Plug 'easymotion/vim-easymotion'
 Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
+Plug 'cocopon/iceberg.vim/'
 Plug 'arcticicestudio/nord-vim'
+Plug 'skammer/vim-css-color'
 call plug#end()
 
